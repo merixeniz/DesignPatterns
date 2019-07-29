@@ -1,0 +1,6 @@
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Strategy\bin\Debug\Strategy.exe.config
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Strategy\bin\Debug\Strategy.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Strategy\bin\Debug\Strategy.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Strategy\obj\Debug\Strategy.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Strategy\obj\Debug\Strategy.pdb

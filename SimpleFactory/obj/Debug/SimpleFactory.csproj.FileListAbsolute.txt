@@ -1,0 +1,6 @@
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\SimpleFactory\bin\Debug\SimpleFactory.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\SimpleFactory\bin\Debug\SimpleFactory.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\SimpleFactory\obj\Debug\SimpleFactory.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\SimpleFactory\obj\Debug\SimpleFactory.pdb

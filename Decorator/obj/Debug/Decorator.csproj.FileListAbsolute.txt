@@ -1,0 +1,6 @@
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Decorator\bin\Debug\Decorator.exe.config
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Decorator\bin\Debug\Decorator.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Decorator\bin\Debug\Decorator.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Decorator\obj\Debug\Decorator.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Decorator\obj\Debug\Decorator.pdb

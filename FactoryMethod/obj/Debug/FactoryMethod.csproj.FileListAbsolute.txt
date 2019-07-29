@@ -1,0 +1,6 @@
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\FactoryMethod\bin\Debug\FactoryMethod.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\FactoryMethod\bin\Debug\FactoryMethod.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\FactoryMethod\obj\Debug\FactoryMethod.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\FactoryMethod\obj\Debug\FactoryMethod.pdb

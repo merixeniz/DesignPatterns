@@ -1,0 +1,6 @@
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Observer\bin\Debug\Observer.exe.config
+C:\Users\piotrs.PIOTRS-KOMP\Documents\Visual Studio 2012\Projects\Observer\bin\Debug\Observer.exe
+C:\Users\piotrs.PIOTRS-KOMP\Documents\Visual Studio 2012\Projects\Observer\bin\Debug\Observer.pdb
+C:\Users\piotrs.PIOTRS-KOMP\Documents\Visual Studio 2012\Projects\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\piotrs.PIOTRS-KOMP\Documents\Visual Studio 2012\Projects\Observer\obj\Debug\Observer.exe
+C:\Users\piotrs.PIOTRS-KOMP\Documents\Visual Studio 2012\Projects\Observer\obj\Debug\Observer.pdb

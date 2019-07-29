@@ -1,0 +1,6 @@
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Singleton\bin\Debug\Singleton.exe.config
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Singleton\bin\Debug\Singleton.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Singleton\bin\Debug\Singleton.pdb
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Singleton\obj\Debug\Singleton.exe
+c:\users\piotrs.piotrs-komp\documents\visual studio 2012\Projects\Singleton\obj\Debug\Singleton.pdb
